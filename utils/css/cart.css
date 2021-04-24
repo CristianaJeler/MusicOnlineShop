@@ -1,0 +1,31 @@
+#totalDiv{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#cartTable td, th{
+    border:darkgrey solid 1px;
+    width: 24%;
+    text-align: center;
+}
+
+#remove{
+    width: 4%;
+}
+
+#cartTable{
+    width: 100%;
+    margin-left: 2%;
+    border-collapse: collapse;
+}
+
+#cartTable img{
+    width: 100px;
+    height: 100px;
+}
+
+.removeBtn:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+
